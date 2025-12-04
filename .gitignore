@@ -10,6 +10,10 @@
 /build
 /dist
 
+# Cache
+.cache
+/.cache
+
 # Misc
 .DS_Store
 .env
@@ -28,3 +32,11 @@ yarn-error.log*
 *.swp
 *.swo
 *~
+
+# Documentation (temporary files)
+BIENVENIDA.txt
+PROYECTO_COMPLETADO.md
+QUICK_START.md
+REFACTORIZACION_COMPLETA.md
+RESUMEN_EJECUTIVO.md
+START_HERE.md
