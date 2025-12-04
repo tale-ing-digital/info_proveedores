@@ -1,0 +1,34 @@
+═══════════════════════════════════════════════════════════════════════════
+  PLACEHOLDER PARA LOGO DE TALE INMOBILIARIA
+═══════════════════════════════════════════════════════════════════════════
+
+📍 UBICACIÓN REQUERIDA:
+   public/assets/branding/logo-tale-horizontal.svg
+
+📋 INSTRUCCIONES:
+
+1. Coloca el logo oficial de Tale Inmobiliaria en formato SVG en esta carpeta
+2. El archivo debe llamarse exactamente: logo-tale-horizontal.svg
+3. El logo debe ser la versión horizontal (no vertical)
+4. Preferiblemente en formato vectorial SVG para mejor calidad
+
+🎨 CONFIGURACIÓN ACTUAL EN EL CÓDIGO:
+
+   - Ubicación: src/pages/SupplierGuidelinesPage.tsx
+   - Ruta de imagen: /assets/branding/logo-tale-horizontal.svg
+   - Altura: 70px
+   - Filtro aplicado: brightness(0) invert(1) (convierte el logo a blanco)
+   - Manejo de error: Si el logo no existe, se oculta automáticamente
+
+📦 FORMATO ALTERNATIVO:
+
+   Si no tienes el logo en SVG, puedes usar PNG con fondo transparente:
+   - Nombre: logo-tale-horizontal.png
+   - Actualiza la extensión en SupplierGuidelinesPage.tsx línea 32
+
+💡 NOTA:
+
+   El logo se mostrará en blanco sobre el fondo azul corporativo (#001f6b)
+   Si el logo original ya es blanco, puedes remover el filtro CSS.
+
+═══════════════════════════════════════════════════════════════════════════
