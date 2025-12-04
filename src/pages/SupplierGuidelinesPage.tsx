@@ -45,7 +45,6 @@ const SuppliersGuidelinesPage: React.FC = () => {
 
         {/* Hero Section */}
         <SectionHeader
-          label="MÓDULO INTERNO"
           title="Lineamientos para Proveedores"
           description="Estos lineamientos te ayudarán a utilizar correctamente el Portal de Proveedores Tale. Aquí encontrarás requisitos, procesos operativos, preguntas frecuentes y contactos clave."
           alignment="center"
