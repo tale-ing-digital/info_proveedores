@@ -47,7 +47,7 @@ export const AccountsPolicySection: React.FC<AccountsPolicySectionProps> = ({
                   letterSpacing: '0.5px',
                 }}
               >
-                Política de cuentas por pagar TALE
+                Lineamientos para proveedores TALE
               </Typography>
             </Box>
             
@@ -59,12 +59,11 @@ export const AccountsPolicySection: React.FC<AccountsPolicySectionProps> = ({
                 fontSize: '1rem',
               }}
             >
-              Consulta el documento oficial que establece los lineamientos y procedimientos 
-              para el manejo de cuentas por pagar en Tale Inmobiliaria.
+              En el documento podrás ver el detalle sobre los lineamientos transparentes para la gestión, programación y ejecución de cuentas por pagar de la TALE.
             </Typography>
             
             <Link
-              href="https://constructoratale.sharepoint.com/:w:/r/sites/PLATAFORMADOCUMENTARIATALE2/_layouts/15/Doc.aspx?sourcedoc=%7B5BB77FAC-BAA3-40EA-92B9-1F6DAC80CB7D%7D&file=ADM-POL-05%20Politica%20de%20cuentas%20por%20pagar.docx&wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&action=default&mobileredirect=true"
+              href="https://constructoratale-my.sharepoint.com/:w:/g/personal/pflores_taleconstructora_com/EQAUyy1C_H9GtbTWRTT2jgIBedd_C7vQyPvQvVwsBc54pQ?wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764949801887&web=1"
               target="_blank"
               rel="noopener noreferrer"
               sx={{
@@ -99,7 +98,7 @@ export const AccountsPolicySection: React.FC<AccountsPolicySectionProps> = ({
                     color: '#001f6b',
                   }}
                 >
-                  ADM-POL-05 Política de cuentas por pagar
+                  Lineamientos para proveedores
                 </Typography>
                 <Typography 
                   component="span"
